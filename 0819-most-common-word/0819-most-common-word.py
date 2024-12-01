@@ -4,6 +4,7 @@ class Solution:
         large=0
         s=""
         x=0
+        flag=0
         for char in paragraph:
             if char.isalpha():
                 char=char.lower()
