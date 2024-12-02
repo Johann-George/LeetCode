@@ -11,6 +11,7 @@ class Solution:
                     flag=1
                 elif char=='@':
                     s+=email[email.index(char):]
+                    break
             arr.append(s)
             s=""
             flag=0
