@@ -7,9 +7,7 @@ class Solution:
                 strs+=c.lower()
             elif c.isdigit():
                 strs+=c
-        print(strs)
         n=int(len(strs)/2)
-
         for i in range (n-1,-1,-1):
             strs_rev+=strs[i]
         if len(strs)%2==0:
