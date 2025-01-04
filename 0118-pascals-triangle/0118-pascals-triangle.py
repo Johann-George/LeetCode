@@ -1,11 +1,7 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         arrFinal=[[1],[1,1]]
-        if numRows==0:
-            arrFinal.pop()
-            arrFinal.pop()
-            return arrFinal
-        elif numRows==1:
+        if numRows==1:
             arrFinal.pop()
             return arrFinal
         for i in range(2,numRows):
