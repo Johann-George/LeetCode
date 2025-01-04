@@ -3,13 +3,20 @@ class Solution:
         if len(s)==1:
             return s
         longStr=""
-        for l in range(0,len(s)-1):
-            r=l
-            while l<=r and r<len(s):
-                if self.palindrome(s[l:r+1]):
-                    if len(longStr)<len(s[l:r+1]):
-                        longStr=s[l:r+1]
+        def palindrome(l,r,longStr):
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if len(longStr)<len(s[l:r+1]):
+                    longStr=s[l:r+1]
+                l-=1
                 r+=1
+            return longStr
+        for i in range(0,len(s)):
+            l,r=i,i
+            longStr=palindrome(l,r,longStr)
+
+            l,r=i,i+1
+            longStr=palindrome(l,r,longStr)
+
+        
         return longStr
-    def palindrome(self,s):
-        return s==s[::-1]
+    
