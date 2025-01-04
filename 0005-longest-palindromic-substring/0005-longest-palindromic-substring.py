@@ -11,9 +11,11 @@ class Solution:
                 r+=1
             return longStr
         for i in range(0,len(s)):
+            #odd length string
             l,r=i,i
             longStr=palindrome(l,r,longStr)
 
+            #even length string
             l,r=i,i+1
             longStr=palindrome(l,r,longStr)
 
