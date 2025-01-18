@@ -19,9 +19,9 @@ class Solution:
             elif root.right is None:
                 return root.left
         
-            node=root.right
-            while node.left:
-                node=node.left
+            node=root.left
+            while node.right:
+                node=node.right
             root.val=node.val
-            root.right=self.deleteNode(root.right,node.val)
+            root.left=self.deleteNode(root.left,node.val)
         return root    
