@@ -8,20 +8,20 @@ class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root:
             return root
-        
-        if key>root.val:
-            root.right=self.deleteNode(root.right,key)
-        elif key<root.val:
+
+        if key<root.val:
             root.left=self.deleteNode(root.left,key)
+        elif key>root.val:
+            root.right=self.deleteNode(root.right,key)
         else:
             if root.left is None:
                 return root.right
             elif root.right is None:
                 return root.left
         
-            node=root.left
-            while node.right:
-                node=node.right
-            root.val=node.val
-            root.left=self.deleteNode(root.left,node.val)
-        return root    
+            ptr=root.right
+            while ptr.left:
+                ptr=ptr.left
+            root.val=ptr.val
+            root.right=self.deleteNode(root.right,root.val)
+        return root
