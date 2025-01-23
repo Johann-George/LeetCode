@@ -8,12 +8,12 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
+
         queue=[root]
         ans=[]
         while queue:
             qLen=len(queue)
             level=[]
-
             for i in range(qLen):
                 node=queue.pop(0)
                 if node:
