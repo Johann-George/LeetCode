@@ -17,5 +17,5 @@ class Solution:
             return False
         if isSame(root,subRoot):
             return True
-        return isSame(root.left,subRoot) or isSame(root.right,subRoot)
+        return self.isSubtree(root.left,subRoot) or self.isSubtree(root.right,subRoot)
         
