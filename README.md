@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/Johann-George/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Johann-George/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Johann-George/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Johann-George/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Johann-George/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Johann-George/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johann-George/LeetCode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
