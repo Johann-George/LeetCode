@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Johann-George/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -77,8 +78,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
