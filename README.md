@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/Johann-George/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Johann-George/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Johann-George/LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Johann-George/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johann-George/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
