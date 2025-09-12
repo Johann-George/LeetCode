@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Johann-George/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0200-number-of-islands](https://github.com/Johann-George/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Johann-George/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Johann-George/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
