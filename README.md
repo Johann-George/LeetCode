@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Johann-George/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Johann-George/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Johann-George/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Johann-George/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Johann-George/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Johann-George/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
