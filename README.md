@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Johann-George/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Johann-George/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Johann-George/LeetCode/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Johann-George/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Johann-George/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Johann-George/LeetCode/tree/master/0338-counting-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Johann-George/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
