@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Johann-George/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Johann-George/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1250-longest-common-subsequence](https://github.com/Johann-George/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0300-longest-increasing-subsequence](https://github.com/Johann-George/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Johann-George/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Johann-George/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/Johann-George/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
