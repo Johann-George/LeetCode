@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/Johann-George/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Johann-George/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Johann-George/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Johann-George/LeetCode/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Johann-George/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Johann-George/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Memoization
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Johann-George/LeetCode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
