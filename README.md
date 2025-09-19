@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Johann-George/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Johann-George/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Union Find
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/Johann-George/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Johann-George/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Johann-George/LeetCode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Johann-George/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
