@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Johann-George/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Johann-George/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Johann-George/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Johann-George/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Johann-George/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Johann-George/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/Johann-George/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Johann-George/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Johann-George/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Johann-George/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Johann-George/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Johann-George/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Memoization
 |  |
@@ -181,4 +184,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Johann-George/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
