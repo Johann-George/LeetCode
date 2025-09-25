@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/Johann-George/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Johann-George/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Johann-George/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Johann-George/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Johann-George/LeetCode/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Johann-George/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Johann-George/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Johann-George/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Johann-George/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Johann-George/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Johann-George/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Johann-George/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Johann-George/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 ## Math
 |  |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Johann-George/LeetCode/tree/master/0212-word-search-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
