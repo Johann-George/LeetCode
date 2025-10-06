@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0300-longest-increasing-subsequence](https://github.com/Johann-George/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Johann-George/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Johann-George/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0907-koko-eating-bananas](https://github.com/Johann-George/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Johann-George/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Johann-George/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Johann-George/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/Johann-George/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
