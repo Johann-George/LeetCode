@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Johann-George/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Johann-George/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Johann-George/LeetCode/tree/master/0567-permutation-in-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
