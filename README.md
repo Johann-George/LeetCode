@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Johann-George/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Johann-George/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Johann-George/LeetCode/tree/master/0567-permutation-in-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Johann-George/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Johann-George/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/Johann-George/LeetCode/tree/master/0883-car-fleet) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
