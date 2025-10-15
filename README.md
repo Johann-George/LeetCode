@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/Johann-George/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Johann-George/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Johann-George/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Johann-George/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Johann-George/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/Johann-George/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Johann-George/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Johann-George/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Johann-George/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Johann-George/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
