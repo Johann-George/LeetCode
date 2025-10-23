@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/Johann-George/LeetCode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Johann-George/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Johann-George/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Johann-George/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Johann-George/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Johann-George/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Johann-George/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0146-lru-cache](https://github.com/Johann-George/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Johann-George/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Johann-George/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/Johann-George/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Johann-George/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Johann-George/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Johann-George/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Johann-George/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
