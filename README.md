@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0883-car-fleet](https://github.com/Johann-George/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Johann-George/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/Johann-George/LeetCode/tree/master/1127-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/Johann-George/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Johann-George/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Johann-George/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
